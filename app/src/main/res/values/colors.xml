@@ -1,0 +1,20 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#2196F3</color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_main">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="success">#22C55E</color>
+    <color name="divider">#E2E8F0</color>
+    
+    <color name="accent_blue">#0EA5E9</color>
+    <color name="accent_purple">#D946EF</color>
+
+    <color name="md_theme_light_surfaceContainerLowest">@color/background_light</color>
+    <color name="md_theme_light_surfaceContainer">#F1F5F9</color>
+    <color name="md_theme_light_onSurface">@color/text_main</color>
+    <color name="md_theme_light_primary">@color/primary</color>
+    <color name="md_theme_light_outlineVariant">@color/divider</color>
+</resources>
